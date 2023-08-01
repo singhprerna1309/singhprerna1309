@@ -6,7 +6,7 @@
 
 - 👀 I’m interested in **Azure Cloud and AI**
   
-- 🌱 I’m currently learning **AIML**
+- 🌱 I’m currently learning **Azure and ML**
 
 - 📫 Reach me at **singhprerna1309@gmail.com**
 
